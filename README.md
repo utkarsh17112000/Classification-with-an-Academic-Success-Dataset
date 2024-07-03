@@ -13,7 +13,11 @@ The dataset consists of two CSV files: train.csv and test.csv. The train.csv fil
 The provided Jupyter Notebook (academic-success-eda-ftr-engineering-model.ipynb) contains a step-by-step solution for predicting academic risk using various machine learning algorithms. The notebook covers:
 
 1.Data loading and exploration
+
 2.Feature engineering and preprocessing
+
 3.Model selection and hyperparameter tuning
+
 4.Model evaluation and comparison
+
 5.Final model selection and prediction on the test set
